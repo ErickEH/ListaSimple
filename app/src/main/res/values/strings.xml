@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nodo</string>
+    <string name="numero">Ingrese un numero: </string>
+    <string name="bdato">Agregar</string>
+    <string name="bdato2">Dato guardado: </string>
+</resources>
